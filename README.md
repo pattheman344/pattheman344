@@ -12,7 +12,7 @@
  ## Current Projects
 
  Discord.js general use bot
- (You can see a preview of it<a href="http://patthedev.ml">here</a>)
+ (You can see a preview of it <a href="http://patthedev.ml/portfolio">here</a>)
 
  # pat#0005
 
