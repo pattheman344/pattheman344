@@ -11,8 +11,8 @@
 
  ## Current Projects
 
- Discord.js general use bot <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
- You can see a preview of it<a href="http://patthedev.ml">here</a>
+ Discord.js general use bot
+ (You can see a preview of it<a href="http://patthedev.ml">here</a>)
 
  # pat#0005
 
