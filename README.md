@@ -12,13 +12,11 @@
  ## Current Projects
 
  Discord.js general use bot <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
+ You can see a preview of it<a href="http://patthedev.ml">here</a>
 
  # pat#0005
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pattheman344&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
- # <a href="http://patthedev.ml">Website</a>
 
   
 
