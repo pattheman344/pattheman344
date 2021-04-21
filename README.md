@@ -16,8 +16,8 @@
 
  ## Current Projects
 
- Discord.js general use bot
- Electron app, I have not decided what this is going to be for yet but most likely a dashboard for my bot.
+ ### Discord.js general use bot
+ ### Electron app, I have not decided what this is going to be for yet but most likely a dashboard for my bot.
 
  # pat#0005
    
