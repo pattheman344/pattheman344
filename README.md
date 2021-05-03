@@ -20,9 +20,9 @@
 
  ### Discord.js general use bot
 
- ### Electron app, I have not decided what this is going to be for yet but most likely a dashboard for my bot.
+ ### User/Administrator panel made with MySQL and PHP, this might be for my bot, not decided.
 
- # pat#0005
+ # pat#0815
 
 # My portfolio can be located at <a href="http://patthedev.ml/portfolio">https://patthedev.tk/portfolio</a>
 
