@@ -13,14 +13,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 
- 
-
- ## Current Projects
-
- ### Discord.js general/personal use bot
-
- ### User/Administrator panel made with MySQL and PHP, this might be for my bot, not decided.
-
  # pat#0815
 
 # My portfolio can be located at <a href="http://patthedev.ml/portfolio">https://patthedev.tk/portfolio</a>
