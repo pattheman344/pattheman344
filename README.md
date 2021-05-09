@@ -17,7 +17,7 @@
 
  ## Current Projects
 
- ### Discord.js general use bot
+ ### Discord.js general/personal use bot
 
  ### User/Administrator panel made with MySQL and PHP, this might be for my bot, not decided.
 
