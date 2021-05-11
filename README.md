@@ -1,7 +1,5 @@
 # pattheman344
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pattheman344&show_icons=true&theme=radical)
-
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattheman344&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
  ## Languages/Tools
