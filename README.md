@@ -13,8 +13,6 @@
 
  # pat#0815
 
-# My portfolio can be located at <a href="http://patthedev.ml/portfolio">https://patthedev.tk/portfolio</a>
-
   
 
   
