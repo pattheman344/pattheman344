@@ -1,6 +1,8 @@
 # pattheman344
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattheman344&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+ 
+ i know how to make discord.js bots lol
 
  ## Languages/Tools
 
