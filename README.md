@@ -1,8 +1,6 @@
 # pattheman344
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattheman344&label=Profile%20views&color=0e75b6&style=flat" /> </p>
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pattheman344&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  ## Languages/Tools
 
