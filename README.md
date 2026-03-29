@@ -8,9 +8,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/c/c-original.svg" alt="css" width="40" height="40"/>
-
-# Project(s) I'm currently working on:
-[Tetris](https://github.com/pattheman344/tetris-c)
   
   
 
